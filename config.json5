@@ -1,0 +1,29 @@
+{
+    "$schema": "./schema/config.schema.json",
+    "curseforgeGenerators": {
+        "Mods": {
+            "section": "MODS"
+        },
+        "ResourcePacks": {
+            "section": "RESOURCE_PACKS"
+        }
+    },
+    "forgeGenerators": {
+        "Forge": {
+        }
+    },
+    "fabricGenerators": {
+        "Fabric": {
+        }
+    },
+    "overrides": {
+        "side_client": {
+            "type": "common",
+            "side": "CLIENT"
+        },
+        "side_server": {
+            "type": "common",
+            "side": "SERVER"
+        }
+    }
+}

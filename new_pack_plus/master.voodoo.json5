@@ -1,0 +1,60 @@
+{
+  "$schema": "../schema/versionPack.schema.json",
+  "srcDir": "src",
+  "version": "1.0.0",
+  "mcVersion": "1.16.5",
+  "modloader": {
+    "type": "modloader.forge",
+    "version": "Forge/1.16.5/36.0.40"
+  },
+  "packageConfiguration": {
+    "multimc": {
+      "instanceCfg": {
+        "MaxMemAlloc": "4096",
+        "MinMemAlloc": "2048",
+        "OverrideMemory": "true"
+      }
+    }
+  },
+  "mods": {
+    "": [
+      // Content Mods
+      { "type": "curse", "curse_projectName": "Mods/create" },
+      { "type": "curse", "curse_projectName": "Mods/tetra" },
+      { "type": "curse", "curse_projectName": "Mods/quark" },
+      { "type": "curse", "curse_projectName": "Mods/farmers-delight" },
+      { "type": "curse", "curse_projectName": "Mods/artifacts" },
+      { "type": "curse", "curse_projectName": "Mods/cooking-for-blockheads" },
+
+      // Worldgen Mods
+      { "type": "curse", "curse_projectName": "Mods/yungs-better-caves" },
+      { "type": "curse", "curse_projectName": "Mods/yungs-better-mineshafts-forge" },
+      { "type": "curse", "curse_projectName": "Mods/endergetic" },
+      { "type": "curse", "curse_projectName": "Mods/save-my-stronghold" },
+
+      // Decoration and Pretty Things
+      { "type": "curse", "curse_projectName": "Mods/immersive-portals-for-forge", "validMcVersions": [ "1.16.4" ] },
+      { "type": "curse", "curse_projectName": "Mods/fairy-lights", "validMcVersions": [ "1.16.4" ] },
+      { "type": "curse", "curse_projectName": "Mods/bedspreads" },
+      { "type": "curse", "curse_projectName": "Mods/customizable-elytra" },
+
+      // Tweaks and Balance Mods
+      { "type": "curse", "curse_projectName": "Mods/forgery" },
+      { "type": "curse", "curse_projectName": "Mods/balanced-enchanting", "validMcVersions": [ "1.16.4" ] },
+      { "type": "curse", "curse_projectName": "Mods/environmental-creepers" },
+      { "type": "curse", "curse_projectName": "Mods/quark-oddities" }, // Totem of Holding
+
+      // Utility Mods
+      { "type": "curse", "curse_projectName": "Mods/jei" },
+      { "type": "curse", "curse_projectName": "Mods/appleskin" }
+    ],
+    "side_client": [
+      { "type": "curse", "curse_projectName": "Mods/dynamic-surroundings" },
+      { "type": "curse", "curse_projectName": "Mods/mouse-tweaks" },
+      { "type": "curse", "curse_projectName": "Mods/toast-control" },
+      { "type": "curse", "curse_projectName": "Mods/controlling" },
+      { "type": "curse", "curse_projectName": "Mods/enchanted-book-redesign" },
+      { "type": "curse", "curse_projectName": "Mods/ambient-environment" }
+    ]
+  }
+}

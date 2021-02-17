@@ -1,0 +1,6 @@
+{
+  "$schema": "../schema/metaPack.schema.json",
+  "authors": [ "copygirl" ],
+  "icon": "icon_new_pack_plus.png",
+  "uploadBaseUrl": "https://meowface.org/copygirl/"
+}

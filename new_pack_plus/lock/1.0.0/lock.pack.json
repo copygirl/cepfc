@@ -1,0 +1,311 @@
+{
+    "id": "new_pack_plus",
+    "mcVersion": "1.16.5",
+    "modloader": {
+        "type": "Forge",
+        "mcVersion": "1.16.5",
+        "forgeVersion": "36.0.40"
+    },
+    "version": "1.0.0",
+    "icon": "icon_new_pack_plus.png",
+    "packOptions": {
+        "multimcOptions": {
+            "instanceCfg": {
+                "MaxMemAlloc": "4096",
+                "MinMemAlloc": "2048",
+                "OverrideMemory": "true"
+            }
+        },
+        "uploadUrl": "https://meowface.org/copygirl/new_pack_plus"
+    },
+    "entries": [
+        {
+            "type": "curse",
+            "id": "abnormals-core",
+            "path": "mods",
+            "name": "endergetic",
+            "projectID": 382216,
+            "fileID": 3157757
+        },
+        {
+            "type": "curse",
+            "id": "ambient-environment",
+            "path": "mods",
+            "name": "ambient-environment",
+            "side": "CLIENT",
+            "projectID": 320163,
+            "fileID": 3137095
+        },
+        {
+            "type": "curse",
+            "id": "appleskin",
+            "path": "mods",
+            "name": "appleskin",
+            "projectID": 248787,
+            "fileID": 3035787
+        },
+        {
+            "type": "curse",
+            "id": "artifacts",
+            "path": "mods",
+            "name": "artifacts",
+            "dependencies": {
+                "curios": "REQUIRED"
+            },
+            "projectID": 312353,
+            "fileID": 3192726
+        },
+        {
+            "type": "curse",
+            "id": "autoreglib",
+            "path": "mods",
+            "name": "quark",
+            "projectID": 250363,
+            "fileID": 3128555
+        },
+        {
+            "type": "curse",
+            "id": "balanced-enchanting",
+            "path": "mods",
+            "name": "balanced-enchanting",
+            "projectID": 399246,
+            "fileID": 3019938
+        },
+        {
+            "type": "curse",
+            "id": "bedspreads",
+            "path": "mods",
+            "name": "bedspreads",
+            "projectID": 308653,
+            "fileID": 3118466
+        },
+        {
+            "type": "curse",
+            "id": "controlling",
+            "path": "mods",
+            "name": "controlling",
+            "side": "CLIENT",
+            "projectID": 250398,
+            "fileID": 3200753
+        },
+        {
+            "type": "curse",
+            "id": "cooking-for-blockheads",
+            "path": "mods",
+            "name": "cooking-for-blockheads",
+            "projectID": 231484,
+            "fileID": 3098223
+        },
+        {
+            "type": "curse",
+            "id": "create",
+            "path": "mods",
+            "name": "create",
+            "projectID": 328085,
+            "fileID": 3167531
+        },
+        {
+            "type": "curse",
+            "id": "curios",
+            "path": "mods",
+            "name": "artifacts",
+            "projectID": 309927,
+            "fileID": 3186427
+        },
+        {
+            "type": "curse",
+            "id": "customizable-elytra",
+            "path": "mods",
+            "name": "customizable-elytra",
+            "projectID": 440047,
+            "fileID": 3203630
+        },
+        {
+            "type": "curse",
+            "id": "dynamic-surroundings",
+            "path": "mods",
+            "name": "dynamic-surroundings",
+            "side": "CLIENT",
+            "projectID": 238891,
+            "fileID": 3197027
+        },
+        {
+            "type": "curse",
+            "id": "enchanted-book-redesign",
+            "path": "mods",
+            "name": "enchanted-book-redesign",
+            "side": "CLIENT",
+            "projectID": 348076,
+            "fileID": 3130523
+        },
+        {
+            "type": "curse",
+            "id": "endergetic",
+            "path": "mods",
+            "name": "endergetic",
+            "dependencies": {
+                "abnormals-core": "REQUIRED"
+            },
+            "projectID": 291509,
+            "fileID": 3154938
+        },
+        {
+            "type": "curse",
+            "id": "environmental-creepers",
+            "path": "mods",
+            "name": "environmental-creepers",
+            "projectID": 246320,
+            "fileID": 3079511
+        },
+        {
+            "type": "curse",
+            "id": "fairy-lights",
+            "path": "mods",
+            "name": "fairy-lights",
+            "projectID": 233342,
+            "fileID": 3148608
+        },
+        {
+            "type": "curse",
+            "id": "farmers-delight",
+            "path": "mods",
+            "name": "farmers-delight",
+            "projectID": 398521,
+            "fileID": 3188508
+        },
+        {
+            "type": "curse",
+            "id": "forgery",
+            "path": "mods",
+            "name": "forgery",
+            "projectID": 434087,
+            "fileID": 3207977
+        },
+        {
+            "type": "curse",
+            "id": "immersive-portals-for-forge",
+            "path": "mods",
+            "name": "immersive-portals-for-forge",
+            "projectID": 355440,
+            "fileID": 3171082
+        },
+        {
+            "type": "curse",
+            "id": "jei",
+            "path": "mods",
+            "name": "jei",
+            "projectID": 238222,
+            "fileID": 3192904
+        },
+        {
+            "type": "curse",
+            "id": "mgui",
+            "path": "mods",
+            "name": "tetra",
+            "projectID": 351914,
+            "fileID": 3104239
+        },
+        {
+            "type": "curse",
+            "id": "mouse-tweaks",
+            "path": "mods",
+            "name": "mouse-tweaks",
+            "side": "CLIENT",
+            "projectID": 60089,
+            "fileID": 3202662
+        },
+        {
+            "type": "curse",
+            "id": "placebo",
+            "path": "mods",
+            "name": "toast-control",
+            "side": "CLIENT",
+            "projectID": 283644,
+            "fileID": 3172794
+        },
+        {
+            "type": "curse",
+            "id": "quark",
+            "path": "mods",
+            "name": "quark",
+            "dependencies": {
+                "autoreglib": "REQUIRED"
+            },
+            "projectID": 243121,
+            "fileID": 3196666
+        },
+        {
+            "type": "curse",
+            "id": "quark-oddities",
+            "path": "mods",
+            "name": "quark-oddities",
+            "dependencies": {
+                "autoreglib": "REQUIRED",
+                "quark": "REQUIRED"
+            },
+            "projectID": 301051,
+            "fileID": 3088871
+        },
+        {
+            "type": "curse",
+            "id": "save-my-stronghold",
+            "path": "mods",
+            "name": "save-my-stronghold",
+            "projectID": 355248,
+            "fileID": 3188216
+        },
+        {
+            "type": "curse",
+            "id": "tetra",
+            "path": "mods",
+            "name": "tetra",
+            "dependencies": {
+                "mgui": "REQUIRED"
+            },
+            "projectID": 289712,
+            "fileID": 3201109
+        },
+        {
+            "type": "curse",
+            "id": "toast-control",
+            "path": "mods",
+            "name": "toast-control",
+            "side": "CLIENT",
+            "dependencies": {
+                "placebo": "REQUIRED"
+            },
+            "projectID": 271740,
+            "fileID": 3172881
+        },
+        {
+            "type": "curse",
+            "id": "yungs-api",
+            "path": "mods",
+            "name": "yungs-better-mineshafts-forge",
+            "projectID": 421850,
+            "fileID": 3186128
+        },
+        {
+            "type": "curse",
+            "id": "yungs-better-caves",
+            "path": "mods",
+            "name": "yungs-better-caves",
+            "dependencies": {
+                "yungs-api": "REQUIRED"
+            },
+            "projectID": 340583,
+            "fileID": 3170047
+        },
+        {
+            "type": "curse",
+            "id": "yungs-better-mineshafts-forge",
+            "path": "mods",
+            "name": "yungs-better-mineshafts-forge",
+            "dependencies": {
+                "yungs-api": "REQUIRED"
+            },
+            "projectID": 389665,
+            "fileID": 3175671
+        }
+    ]
+}

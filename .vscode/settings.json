@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.associations": { "*.json5": "jsonc" }
+}
