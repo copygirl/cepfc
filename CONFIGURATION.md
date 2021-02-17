@@ -36,6 +36,29 @@
 
 # Tweaks and Balance Mods
 
+## Forgery / Fabrication
+- Set profile to "Dark"
+### Utility
+- Disable "Books Show Enchants"
+- Disable "Hide Armor" commands
+- Disable "Tools Show Important Enchant"
+### Tweaks
+- Disable "Creepers Explode When On Fire"
+### Minor Mechanics
+- Disable "Feather Falling V"
+### Mechanics
+- Disable "Broken Gear Drops Components"
+### Balance
+- Enable "Bedrock-Like Impaling"
+- Enable "Drop More Experience On Death"
+- Enable "Food Always Edible"
+- Enable "Soul Speed Doesn't Damage Boots"
+- Enable "Tridents Accept Power"
+- Enable "Tridents Accept Sharpness"
+### Weird Tweaks
+- Enable "Instant Pickup"
+- Enable "Déjà Void"
+
 
 # Utility Mods
 
