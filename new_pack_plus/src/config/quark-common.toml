@@ -1,6 +1,6 @@
 
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Use Anti Overlap" = true
 	#
@@ -48,19 +48,19 @@
 
 [automation]
 	"Chain Linkage" = true
-	"Chains Connect Blocks" = true
-	Chute = true
-	"Color Slime" = true
-	"Dispensers Place Blocks" = true
+	"Chains Connect Blocks" = false
+	Chute = false
+	"Color Slime" = false
+	"Dispensers Place Blocks" = false
 	"Ender Watcher" = true
 	"Endermites Form Shulkers" = true
 	"Feeding Trough" = true
 	Gravisand = true
-	"Iron Rod" = true
+	"Iron Rod" = false
 	"Metal Buttons" = true
 	"Obsidian Plate" = true
-	"Pistons Move Tile Entities" = true
-	"Redstone Circuit" = true
+	"Pistons Move Tile Entities" = false
+	"Redstone Circuit" = false
 	"Weather Sensor" = true
 
 	[automation.chain_linkage]
@@ -165,9 +165,9 @@
 		"Enable Stick Block" = true
 		"Enable Apple Crate" = true
 		"Enable Golden Apple Crate" = true
-		"Enable Potato Crate" = true
-		"Enable Carrot Crate" = true
-		"Enable Beetroot Crate" = true
+		"Enable Potato Crate" = false
+		"Enable Carrot Crate" = false
+		"Enable Beetroot Crate" = false
 		"Enable Cocoa Bean Sack" = true
 		"Enable Nether Wart Sack" = true
 		"Enable Gunpowder Sack" = true
@@ -294,7 +294,29 @@
 		"Item Quality" = 2
 		"Merge Cost" = 35
 		"Apply Cost" = 35
-		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing"]
+		"Valid Enchantments" = [
+			"minecraft:feather_falling",
+			"minecraft:thorns",
+			"minecraft:sharpness",
+			"minecraft:smite",
+			"minecraft:bane_of_arthropods",
+			"minecraft:knockback",
+			"minecraft:fire_aspect",
+			"minecraft:looting",
+			"minecraft:sweeping",
+			"minecraft:efficiency",
+			"minecraft:unbreaking",
+			"minecraft:fortune",
+			"minecraft:power",
+			"minecraft:punch",
+			"minecraft:luck_of_the_sea",
+			"minecraft:lure",
+			"minecraft:loyalty",
+			"minecraft:riptide",
+			"minecraft:impaling",
+			"minecraft:piercing",
+			"farmersdelight:backstabbing",
+		]
 
 	[tools.bottled_cloud]
 		"Cloud Level Bottom" = 127
@@ -1161,7 +1183,7 @@
 
 	[world.new_stone_types]
 		"Enable Marble" = true
-		"Enable Limestone" = true
+		"Enable Limestone" = false
 		"Enable Jasper" = true
 		"Enable Slate" = true
 		"Enable Voidstone" = true
@@ -1924,7 +1946,7 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
-		"Food Tooltips" = true
+		"Food Tooltips" = false
 		"Shulker Tooltips" = true
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
@@ -1943,7 +1965,9 @@
 		#enchant_id=item1,item2,item3...
 		#So to display a carrot on a stick on a mending book, for example, you use:
 		#minecraft:mending=minecraft:carrot_on_a_stick
-		"Enchanting Additional Stacks" = []
+		"Enchanting Additional Stacks" = [
+			"farmersdelight:backstabbing=farmersdelight:diamond_knife",
+		]
 
 	[client.usage_ticker]
 		#
@@ -1969,9 +1993,9 @@
 
 [oddities]
 	Backpack = true
-	Magnets = true
-	"Matrix Enchanting" = true
-	Pipes = true
+	Magnets = false
+	"Matrix Enchanting" = false
+	Pipes = false
 	"Totem Of Holding" = true
 
 	[oddities.backpack]
@@ -2068,7 +2092,7 @@
 	[oddities.totem_of_holding]
 		#
 		#Set this to false to remove the behaviour where totems destroy themselves if the player dies again.
-		"Dark Souls Mode" = true
+		"Dark Souls Mode" = false
 		"Spawn Totem on PVP Kill" = false
 		#
 		#Set this to true to make it so that if a totem is destroyed, the items it holds are destroyed alongside it rather than dropped
