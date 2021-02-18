@@ -43,6 +43,7 @@
       { "type": "curse", "curse_projectName": "Mods/balanced-enchanting", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/environmental-creepers" },
       { "type": "curse", "curse_projectName": "Mods/quark-oddities" }, // Totem of Holding
+      { "type": "curse", "curse_projectName": "Mods/inventory-totem" },
 
       // Utility Mods
       { "type": "curse", "curse_projectName": "Mods/jei" },

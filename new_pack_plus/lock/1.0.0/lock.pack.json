@@ -81,6 +81,14 @@
         },
         {
             "type": "curse",
+            "id": "collective",
+            "path": "mods",
+            "name": "inventory-totem",
+            "projectID": 342584,
+            "fileID": 3205362
+        },
+        {
+            "type": "curse",
             "id": "controlling",
             "path": "mods",
             "name": "controlling",
@@ -188,6 +196,17 @@
             "name": "immersive-portals-for-forge",
             "projectID": 355440,
             "fileID": 3171082
+        },
+        {
+            "type": "curse",
+            "id": "inventory-totem",
+            "path": "mods",
+            "name": "inventory-totem",
+            "dependencies": {
+                "collective": "REQUIRED"
+            },
+            "projectID": 349071,
+            "fileID": 3192133
         },
         {
             "type": "curse",
