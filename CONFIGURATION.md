@@ -64,3 +64,7 @@
 
 
 # Client-side Mods
+
+## Mouse Tweaks
+- Disable "RMB Tweak"
+- Set "WheelScrollDirection" to 2 (position aware scrolling)
