@@ -29,15 +29,6 @@
         },
         {
             "type": "curse",
-            "id": "ambient-environment",
-            "path": "mods",
-            "name": "ambient-environment",
-            "side": "CLIENT",
-            "projectID": 320163,
-            "fileID": 3137095
-        },
-        {
-            "type": "curse",
             "id": "appleskin",
             "path": "mods",
             "name": "appleskin",
@@ -89,15 +80,6 @@
         },
         {
             "type": "curse",
-            "id": "controlling",
-            "path": "mods",
-            "name": "controlling",
-            "side": "CLIENT",
-            "projectID": 250398,
-            "fileID": 3200753
-        },
-        {
-            "type": "curse",
             "id": "cooking-for-blockheads",
             "path": "mods",
             "name": "cooking-for-blockheads",
@@ -132,8 +114,12 @@
             "type": "curse",
             "id": "dynamic-surroundings",
             "path": "mods",
-            "name": "dynamic-surroundings",
+            "name": "Dynamic Surroundings",
             "side": "CLIENT",
+            "description": "Improves auditory experience with sound effects and additional sounds.",
+            "optionalData": {
+                "selected": true
+            },
             "projectID": 238891,
             "fileID": 3197027
         },

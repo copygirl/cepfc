@@ -50,12 +50,12 @@
       { "type": "curse", "curse_projectName": "Mods/appleskin" }
     ],
     "side_client": [
-      { "type": "curse", "curse_projectName": "Mods/dynamic-surroundings" },
       { "type": "curse", "curse_projectName": "Mods/mouse-tweaks" },
       { "type": "curse", "curse_projectName": "Mods/toast-control" },
-      { "type": "curse", "curse_projectName": "Mods/controlling" },
       { "type": "curse", "curse_projectName": "Mods/enchanted-book-redesign" },
-      { "type": "curse", "curse_projectName": "Mods/ambient-environment" }
+
+      { "type": "curse", "curse_projectName": "Mods/dynamic-surroundings", "optional": { "selected": true },
+        "name": "Dynamic Surroundings", "description": "Improves auditory experience with sound effects and additional sounds." }
     ]
   }
 }
