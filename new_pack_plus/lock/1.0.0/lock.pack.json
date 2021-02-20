@@ -44,7 +44,7 @@
                 "curios": "REQUIRED"
             },
             "projectID": 312353,
-            "fileID": 3192726
+            "fileID": 3208854
         },
         {
             "type": "curse",
@@ -108,7 +108,7 @@
             "path": "mods",
             "name": "customizable-elytra",
             "projectID": 440047,
-            "fileID": 3203630
+            "fileID": 3209742
         },
         {
             "type": "curse",
@@ -121,7 +121,7 @@
                 "selected": true
             },
             "projectID": 238891,
-            "fileID": 3197027
+            "fileID": 3208542
         },
         {
             "type": "curse",
@@ -237,7 +237,7 @@
                 "autoreglib": "REQUIRED"
             },
             "projectID": 243121,
-            "fileID": 3196666
+            "fileID": 3208541
         },
         {
             "type": "curse",
