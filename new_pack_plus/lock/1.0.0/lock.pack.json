@@ -72,6 +72,23 @@
         },
         {
             "type": "curse",
+            "id": "carry-on",
+            "path": "mods",
+            "name": "carry-on",
+            "projectID": 274259,
+            "fileID": 3206755
+        },
+        {
+            "type": "curse",
+            "id": "cloth-config-forge",
+            "path": "mods",
+            "name": "InvMove",
+            "side": "CLIENT",
+            "projectID": 348521,
+            "fileID": 3203817
+        },
+        {
+            "type": "curse",
             "id": "collective",
             "path": "mods",
             "name": "inventory-totem",
@@ -109,6 +126,14 @@
             "name": "customizable-elytra",
             "projectID": 440047,
             "fileID": 3209742
+        },
+        {
+            "type": "curse",
+            "id": "dungeon-crawl",
+            "path": "mods",
+            "name": "dungeon-crawl",
+            "projectID": 324973,
+            "fileID": 3160501
         },
         {
             "type": "curse",
@@ -169,6 +194,28 @@
         },
         {
             "type": "curse",
+            "id": "fastfurnace",
+            "path": "mods",
+            "name": "fastfurnace",
+            "dependencies": {
+                "placebo": "REQUIRED"
+            },
+            "projectID": 299540,
+            "fileID": 3172796
+        },
+        {
+            "type": "curse",
+            "id": "fastworkbench",
+            "path": "mods",
+            "name": "fastworkbench",
+            "dependencies": {
+                "placebo": "REQUIRED"
+            },
+            "projectID": 288885,
+            "fileID": 3171218
+        },
+        {
+            "type": "curse",
             "id": "forgery",
             "path": "mods",
             "name": "forgery",
@@ -196,6 +243,21 @@
         },
         {
             "type": "curse",
+            "id": "invmove",
+            "path": "mods",
+            "name": "InvMove",
+            "side": "CLIENT",
+            "description": "Allows moving around even with an open inventory or container.",
+            "optionalData": {
+            },
+            "dependencies": {
+                "cloth-config-forge": "REQUIRED"
+            },
+            "projectID": 390992,
+            "fileID": 3089108
+        },
+        {
+            "type": "curse",
             "id": "jei",
             "path": "mods",
             "name": "jei",
@@ -214,8 +276,12 @@
             "type": "curse",
             "id": "mouse-tweaks",
             "path": "mods",
-            "name": "mouse-tweaks",
+            "name": "Mouse Tweaks",
             "side": "CLIENT",
+            "description": "Move items between inventories with the mouse wheel and click-dragging.",
+            "optionalData": {
+                "selected": true
+            },
             "projectID": 60089,
             "fileID": 3202662
         },
@@ -224,7 +290,6 @@
             "id": "placebo",
             "path": "mods",
             "name": "toast-control",
-            "side": "CLIENT",
             "projectID": 283644,
             "fileID": 3172794
         },

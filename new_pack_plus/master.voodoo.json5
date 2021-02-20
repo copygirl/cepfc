@@ -22,6 +22,7 @@
       { "type": "curse", "curse_projectName": "Mods/create" },
       { "type": "curse", "curse_projectName": "Mods/tetra" },
       { "type": "curse", "curse_projectName": "Mods/quark" },
+      { "type": "curse", "curse_projectName": "Mods/quark-oddities" },
       { "type": "curse", "curse_projectName": "Mods/farmers-delight" },
       { "type": "curse", "curse_projectName": "Mods/artifacts" },
       { "type": "curse", "curse_projectName": "Mods/cooking-for-blockheads" },
@@ -29,8 +30,12 @@
       // Worldgen Mods
       { "type": "curse", "curse_projectName": "Mods/yungs-better-caves" },
       { "type": "curse", "curse_projectName": "Mods/yungs-better-mineshafts-forge" },
+      { "type": "curse", "curse_projectName": "Mods/dungeon-crawl" },
       { "type": "curse", "curse_projectName": "Mods/endergetic" },
       { "type": "curse", "curse_projectName": "Mods/save-my-stronghold" },
+
+      // Mechanics Mods
+      { "type": "curse", "curse_projectName": "Mods/carry-on" },
 
       // Decoration and Pretty Things
       { "type": "curse", "curse_projectName": "Mods/immersive-portals-for-forge", "validMcVersions": [ "1.16.4" ] },
@@ -42,20 +47,26 @@
       { "type": "curse", "curse_projectName": "Mods/forgery" },
       { "type": "curse", "curse_projectName": "Mods/balanced-enchanting", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/environmental-creepers" },
-      { "type": "curse", "curse_projectName": "Mods/quark-oddities" }, // Totem of Holding
       { "type": "curse", "curse_projectName": "Mods/inventory-totem" },
 
       // Utility Mods
       { "type": "curse", "curse_projectName": "Mods/jei" },
-      { "type": "curse", "curse_projectName": "Mods/appleskin" }
+      { "type": "curse", "curse_projectName": "Mods/appleskin" },
+
+      // Performance
+      { "type": "curse", "curse_projectName": "Mods/fastfurnace" },
+      { "type": "curse", "curse_projectName": "Mods/fastworkbench" }
     ],
     "side_client": [
-      { "type": "curse", "curse_projectName": "Mods/mouse-tweaks" },
       { "type": "curse", "curse_projectName": "Mods/toast-control" },
       { "type": "curse", "curse_projectName": "Mods/enchanted-book-redesign" },
 
+      { "type": "curse", "curse_projectName": "Mods/mouse-tweaks", "optional": { "selected": true },
+        "name": "Mouse Tweaks", "description": "Move items between inventories with the mouse wheel and click-dragging." },
       { "type": "curse", "curse_projectName": "Mods/dynamic-surroundings", "optional": { "selected": true },
-        "name": "Dynamic Surroundings", "description": "Improves auditory experience with sound effects and additional sounds." }
+        "name": "Dynamic Surroundings", "description": "Improves auditory experience with sound effects and additional sounds." },
+      { "type": "curse", "curse_projectName": "Mods/invmove", "optional": { "selected": false },
+        "name": "InvMove", "description": "Allows moving around even with an open inventory or container." }
     ]
   }
 }
