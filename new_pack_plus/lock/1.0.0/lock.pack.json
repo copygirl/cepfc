@@ -37,6 +37,15 @@
         },
         {
             "type": "curse",
+            "id": "architectury-forge",
+            "path": "mods",
+            "name": "ftb-gui-library",
+            "side": "CLIENT",
+            "projectID": 419699,
+            "fileID": 3214320
+        },
+        {
+            "type": "curse",
             "id": "artifacts",
             "path": "mods",
             "name": "artifacts",
@@ -44,7 +53,7 @@
                 "curios": "REQUIRED"
             },
             "projectID": 312353,
-            "fileID": 3208854
+            "fileID": 3214070
         },
         {
             "type": "curse",
@@ -93,7 +102,7 @@
             "name": "InvMove",
             "side": "CLIENT",
             "projectID": 348521,
-            "fileID": 3203817
+            "fileID": 3210411
         },
         {
             "type": "curse",
@@ -125,7 +134,7 @@
             "path": "mods",
             "name": "customizable-elytra",
             "projectID": 440047,
-            "fileID": 3209742
+            "fileID": 3210511
         },
         {
             "type": "curse",
@@ -146,7 +155,7 @@
                 "selected": true
             },
             "projectID": 238891,
-            "fileID": 3208542
+            "fileID": 3211215
         },
         {
             "type": "curse",
@@ -224,11 +233,23 @@
         },
         {
             "type": "curse",
+            "id": "ftb-gui-library",
+            "path": "mods",
+            "name": "ftb-gui-library",
+            "side": "CLIENT",
+            "dependencies": {
+                "architectury-forge": "REQUIRED"
+            },
+            "projectID": 404465,
+            "fileID": 3214262
+        },
+        {
+            "type": "curse",
             "id": "immersive-portals-for-forge",
             "path": "mods",
             "name": "immersive-portals-for-forge",
             "projectID": 355440,
-            "fileID": 3171082
+            "fileID": 3215256
         },
         {
             "type": "curse",
@@ -291,7 +312,7 @@
                 "autoreglib": "REQUIRED"
             },
             "projectID": 243121,
-            "fileID": 3208541
+            "fileID": 3212156
         },
         {
             "type": "curse",

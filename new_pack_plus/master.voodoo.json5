@@ -39,7 +39,7 @@
       { "type": "curse", "curse_projectName": "Mods/carry-on" },
 
       // Decoration and Pretty Things
-      { "type": "curse", "curse_projectName": "Mods/immersive-portals-for-forge", "validMcVersions": [ "1.16.4" ] },
+      { "type": "curse", "curse_projectName": "Mods/immersive-portals-for-forge" },
       { "type": "curse", "curse_projectName": "Mods/fairy-lights", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/bedspreads" },
       { "type": "curse", "curse_projectName": "Mods/customizable-elytra" },
@@ -60,6 +60,7 @@
     "side_client": [
       { "type": "curse", "curse_projectName": "Mods/toast-control" },
       { "type": "curse", "curse_projectName": "Mods/enchanted-book-redesign" },
+      { "type": "curse", "curse_projectName": "Mods/ftb-gui-library" }, // Required for in-game JEI config.
 
       { "type": "curse", "curse_projectName": "Mods/mouse-tweaks", "optional": { "selected": true },
         "name": "Mouse Tweaks", "description": "Move items between inventories with the mouse wheel and click-dragging." },
