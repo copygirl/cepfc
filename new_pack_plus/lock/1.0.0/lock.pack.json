@@ -80,20 +80,20 @@
         },
         {
             "type": "curse",
+            "id": "charm-reforged",
+            "path": "mods",
+            "name": "charm-reforged",
+            "projectID": 430988,
+            "fileID": 3214651
+        },
+        {
+            "type": "curse",
             "id": "cloth-config-forge",
             "path": "mods",
             "name": "InvMove",
             "side": "CLIENT",
             "projectID": 348521,
             "fileID": 3203817
-        },
-        {
-            "type": "curse",
-            "id": "collective",
-            "path": "mods",
-            "name": "inventory-totem",
-            "projectID": 342584,
-            "fileID": 3205362
         },
         {
             "type": "curse",
@@ -229,17 +229,6 @@
             "name": "immersive-portals-for-forge",
             "projectID": 355440,
             "fileID": 3171082
-        },
-        {
-            "type": "curse",
-            "id": "inventory-totem",
-            "path": "mods",
-            "name": "inventory-totem",
-            "dependencies": {
-                "collective": "REQUIRED"
-            },
-            "projectID": 349071,
-            "fileID": 3192133
         },
         {
             "type": "curse",

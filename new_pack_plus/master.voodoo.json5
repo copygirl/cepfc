@@ -23,6 +23,7 @@
       { "type": "curse", "curse_projectName": "Mods/tetra" },
       { "type": "curse", "curse_projectName": "Mods/quark" },
       { "type": "curse", "curse_projectName": "Mods/quark-oddities" },
+      { "type": "curse", "curse_projectName": "Mods/charm-reforged" },
       { "type": "curse", "curse_projectName": "Mods/farmers-delight" },
       { "type": "curse", "curse_projectName": "Mods/artifacts" },
       { "type": "curse", "curse_projectName": "Mods/cooking-for-blockheads" },
@@ -47,7 +48,6 @@
       { "type": "curse", "curse_projectName": "Mods/forgery" },
       { "type": "curse", "curse_projectName": "Mods/balanced-enchanting", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/environmental-creepers" },
-      { "type": "curse", "curse_projectName": "Mods/inventory-totem" },
 
       // Utility Mods
       { "type": "curse", "curse_projectName": "Mods/jei" },
