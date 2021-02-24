@@ -27,6 +27,20 @@
 - Disable "Matrix Enchanting"
 - Disable "Dark Souls Mode" for *Totem of Holding*
 
+## Charm
+- Disable *Acquisition* enchantment
+- Disable *Netherite Nuggets*
+- Disable "AutoRestock"
+- Disable "DecreaseRepairCost"
+- Disable "ExtendNetherite"
+- Disable "ExtraRecipes"
+- Disable "ExtractEnchantments"
+- Disable "FeatherFallingCrops"
+- Disable "MineshaftImprovements"
+- Disable "MorePortalFrames"
+- Disable "Tinted"
+- Disable "Show item repair cost"
+
 
 # Worldgen Mods
 

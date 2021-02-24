@@ -1,5 +1,5 @@
 #Tools with the Acquisition enchantment automatically pick up drops.
-"Acquisition enabled" = true
+"Acquisition enabled" = false
 #Aerial Affinity is a boots enchantment that increases mining rate when not on the ground.
 "AerialAffinity enabled" = true
 #Removes minimum and maximum XP costs on the anvil. Anvils are also less likely to break.
@@ -9,7 +9,7 @@
 #Storage for maps that automatically updates the displayed map as you explore.
 "Atlas enabled" = true
 #Refills your hotbar from your inventory.
-"AutoRestock enabled" = true
+"AutoRestock enabled" = false
 #Unlocks all vanilla recipes.
 "AutomaticRecipeUnlock enabled" = true
 #Right-click a bat with a bucket to capture it. Right-click again to release it and locate entities around you.
@@ -41,19 +41,19 @@
 #A smaller storage solution with the benefit of being transportable.
 "Crates enabled" = true
 #Combine a tool or armor with a netherite nugget on an anvil to reduce its repair cost.
-"DecreaseRepairCost enabled" = true
+"DecreaseRepairCost enabled" = false
 #Right-clicking dirt with a shovel turns it into grass path.
 "DirtToPath enabled" = true
 #Endermites drop endermite powder that can be used to locate an End City.
 "EndermitePowder enabled" = true
 #Extends the lifetime of netherite-based items before they despawn.
-"ExtendNetherite enabled" = true
+"ExtendNetherite enabled" = false
 #Adds custom recipes.
-"ExtraRecipes enabled" = true
+"ExtraRecipes enabled" = false
 #Extract enchantments from any enchanted item into an empty book using the grindstone.
-"ExtractEnchantments enabled" = true
+"ExtractEnchantments enabled" = false
 #A player wearing feather falling enchanted boots will not trample crops.
-"FeatherFallingCrops enabled" = true
+"FeatherFallingCrops enabled" = false
 #Glowballs can be thrown to produce a light source where they impact.
 "Glowballs enabled" = true
 #Gold variant of vanilla iron bars.
@@ -75,18 +75,18 @@
 #Show maps in tooltips.
 "MapTooltips enabled" = true
 #Adds decoration and more ores to mineshafts.
-"MineshaftImprovements enabled" = true
+"MineshaftImprovements enabled" = false
 #Mooblooms are cow-like mobs that come in a variety of flower types. They spawn flowers where they walk and can be milked for suspicious stew.
 "Mooblooms enabled" = true
 #Crying obsidian and refined obsidian can be used to construct nether portal frames.
-"MorePortalFrames enabled" = true
+"MorePortalFrames enabled" = false
 #Villages can spawn in swamps and jungles.
 "MoreVillageBiomes enabled" = true
 #Playing a record in a jukebox stops background music from playing at the same.
 #Creative music tracks may also play in survival mode.
 "MusicImprovements enabled" = true
 #Netherite nuggets can be combined to create a netherite ingot.
-"NetheriteNuggets enabled" = true
+"NetheriteNuggets enabled" = false
 #Parrots stay on your shoulder when jumping and falling. Crouch to make them dismount.
 "ParrotsStayOnShoulder enabled" = true
 #Right-clicking on a grass path block with a hoe turns it back into dirt.
@@ -128,7 +128,7 @@
 #Tamed animals do not take direct damage from players.
 "TamedAnimalsNoDamage enabled" = true
 #When applied, this enchantment lets you change the color of the enchanted glint using dye on an anvil. Requires Core 'Enchantment glint override' to be true.
-"Tinted enabled" = true
+"Tinted enabled" = false
 #As long as a Totem of Undying is in your inventory, it will be consumed to protect you from death.
 "UseTotemFromInventory enabled" = true
 #Barrels available in all types of vanilla wood.
@@ -158,7 +158,7 @@
 	#If true, an enchanted book with a level higher than the maximum enchantment level may be applied to an item.
 	"Allow higher enchantment levels" = true
 	#If true, items show their repair cost in their tooltip when looking at the anvil screen.
-	"Show item repair cost" = true
+	"Show item repair cost" = false
 
 [Atlas]
 	#Allow opening the atlas while it is in the off hand.
@@ -429,4 +429,3 @@
 [WitchesDropLuck]
 	#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed by the player.
 	"Drop chance" = 0.05
-
