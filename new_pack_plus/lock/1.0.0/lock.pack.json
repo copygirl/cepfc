@@ -25,7 +25,7 @@
             "path": "mods",
             "name": "endergetic",
             "projectID": 382216,
-            "fileID": 3157757
+            "fileID": 3218058
         },
         {
             "type": "curse",
@@ -42,7 +42,7 @@
             "name": "ftb-gui-library",
             "side": "CLIENT",
             "projectID": 419699,
-            "fileID": 3214320
+            "fileID": 3217852
         },
         {
             "type": "curse",
@@ -150,7 +150,7 @@
             "path": "mods",
             "name": "customizable-elytra",
             "projectID": 440047,
-            "fileID": 3210511
+            "fileID": 3215819
         },
         {
             "type": "curse",
@@ -215,7 +215,7 @@
             "path": "mods",
             "name": "fairy-lights",
             "projectID": 233342,
-            "fileID": 3148608
+            "fileID": 3216206
         },
         {
             "type": "curse",
@@ -347,7 +347,7 @@
                 "autoreglib": "REQUIRED"
             },
             "projectID": 243121,
-            "fileID": 3212156
+            "fileID": 3216263
         },
         {
             "type": "curse",
