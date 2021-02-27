@@ -18,38 +18,38 @@
   },
   "mods": {
     "": [
-      // Content Mods
+      // Content
       { "type": "curse", "curse_projectName": "Mods/create" },
       { "type": "curse", "curse_projectName": "Mods/tetra" },
       { "type": "curse", "curse_projectName": "Mods/quark" },
       { "type": "curse", "curse_projectName": "Mods/quark-oddities" },
       { "type": "curse", "curse_projectName": "Mods/charm-reforged" },
       { "type": "curse", "curse_projectName": "Mods/farmers-delight" },
-      { "type": "curse", "curse_projectName": "Mods/artifacts" },
       { "type": "curse", "curse_projectName": "Mods/cooking-for-blockheads" },
+      { "type": "curse", "curse_projectName": "Mods/artifacts" },
 
-      // Worldgen Mods
+      // Worldgen
       { "type": "curse", "curse_projectName": "Mods/yungs-better-caves" },
       { "type": "curse", "curse_projectName": "Mods/yungs-better-mineshafts-forge" },
-      { "type": "curse", "curse_projectName": "Mods/dungeon-crawl" },
       { "type": "curse", "curse_projectName": "Mods/endergetic" },
+      { "type": "curse", "curse_projectName": "Mods/dungeon-crawl" },
       { "type": "curse", "curse_projectName": "Mods/save-my-stronghold" },
 
-      // Mechanics Mods
+      // Mechanics
+      { "type": "curse", "curse_projectName": "Mods/immersive-portals-for-forge" },
       { "type": "curse", "curse_projectName": "Mods/carry-on" },
 
-      // Decoration and Pretty Things
-      { "type": "curse", "curse_projectName": "Mods/immersive-portals-for-forge" },
+      // Decoration / Pretty Things
       { "type": "curse", "curse_projectName": "Mods/fairy-lights", "validMcVersions": [ "1.16.4" ] },
-      { "type": "curse", "curse_projectName": "Mods/bedspreads" },
       { "type": "curse", "curse_projectName": "Mods/customizable-elytra" },
+      { "type": "curse", "curse_projectName": "Mods/bedspreads" },
 
-      // Tweaks and Balance Mods
+      // Tweaks / Balance
       { "type": "curse", "curse_projectName": "Mods/forgery" },
       { "type": "curse", "curse_projectName": "Mods/balanced-enchanting", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/environmental-creepers" },
 
-      // Utility Mods
+      // Utility
       { "type": "curse", "curse_projectName": "Mods/jei" },
       { "type": "curse", "curse_projectName": "Mods/appleskin" },
 
