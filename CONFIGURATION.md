@@ -1,4 +1,4 @@
-# Content Mods
+# `new_pack_plus` - Configuration Changes
 
 ## Quark
 - Disable "q" button
@@ -40,15 +40,6 @@
 - Disable "Tinted"
 - Disable "Show item repair cost"
 
-
-# Worldgen Mods
-
-
-# Decoration and Pretty Things
-
-
-# Tweaks and Balance Mods
-
 ## Forgery / Fabrication
 - Set profile to "Dark"
 ### Utility
@@ -72,12 +63,6 @@
 ### Weird Tweaks
 - Enable "Instant Pickup"
 - Enable "Déjà Void"
-
-
-# Utility Mods
-
-
-# Client-side Mods
 
 ## Mouse Tweaks
 - Disable "RMB Tweak"
