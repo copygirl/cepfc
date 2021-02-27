@@ -1,4 +1,4 @@
-# `new_pack_plus` - Mod List
+# Mod List
 
 ## Content
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) - The "core" mod I want to explore most with this pack.

@@ -1,5 +1,7 @@
 {
   "$schema": "../schema/versionPack.schema.json",
+  "title": "copy's Extraordinary Pack for Cuties",
+  "authors": [ "copygirl" ],
   "srcDir": "src",
   "version": "1.0.0",
   "mcVersion": "1.16.5",

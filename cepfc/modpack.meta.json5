@@ -1,6 +1,7 @@
 {
   "$schema": "../schema/metaPack.schema.json",
+  "title": "copy's Extraordinary Pack for Cuties",
   "authors": [ "copygirl" ],
-  "icon": "icon_new_pack_plus.png",
+  "icon": "icon_cepfc.png",
   "uploadBaseUrl": "https://meowface.org/copygirl/"
 }

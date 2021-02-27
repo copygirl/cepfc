@@ -1,13 +1,17 @@
 {
-    "id": "new_pack_plus",
+    "id": "cepfc",
     "mcVersion": "1.16.5",
     "modloader": {
         "type": "Forge",
         "mcVersion": "1.16.5",
         "forgeVersion": "36.0.40"
     },
+    "title": "copy's Extraordinary Pack for Cuties",
     "version": "1.0.0",
-    "icon": "icon_new_pack_plus.png",
+    "icon": "icon_cepfc.png",
+    "authors": [
+        "copygirl"
+    ],
     "packOptions": {
         "multimcOptions": {
             "instanceCfg": {
@@ -16,7 +20,7 @@
                 "OverrideMemory": "true"
             }
         },
-        "uploadUrl": "https://meowface.org/copygirl/new_pack_plus"
+        "uploadUrl": "https://meowface.org/copygirl/cepfc"
     },
     "entries": [
         {

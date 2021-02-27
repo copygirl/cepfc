@@ -1,4 +1,6 @@
-# `new_pack_plus` - Configuration Changes
+# Configuration Changes
+
+This is a list of **ALL** the configuration changes made to mods in this pack. This is in case you're interested in the pack and want to see what we modified, or creating something similar for yourself. The modified config files can be found in the [`cepfc/src/config/`](cepfc/src/config/) folder. Both initial changes and ones made as the modpack is being developed can be seen in the [commit history](https://github.com/copygirl/cepfc/commits/master) of this repository.
 
 ## Quark
 - Disable "q" button

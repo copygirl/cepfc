@@ -1,4 +1,4 @@
-# `new_pack_plus`
+# copy's Extraordinary Pack for Cuties
 
 A Minecraft 1.16.5 Forge modpack which focuses around the mods **[Create]**, **[Tetra]** and **[Quark]** as a Vanilla+ like experience. Other mods bring many improvements, additions and tweaks to many aspects of the game, but we try to keep down their numbers. Most notably, the pack lacks magic and traditional tech mods.
 
