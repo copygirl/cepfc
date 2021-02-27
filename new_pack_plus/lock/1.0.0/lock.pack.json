@@ -97,6 +97,22 @@
         },
         {
             "type": "curse",
+            "id": "charmonium-reforged",
+            "path": "mods",
+            "name": "Charmonium",
+            "side": "CLIENT",
+            "description": "Adds additional (ambient) sound effects and music.",
+            "optionalData": {
+                "selected": true
+            },
+            "dependencies": {
+                "charm-reforged": "REQUIRED"
+            },
+            "projectID": 431587,
+            "fileID": 3214653
+        },
+        {
+            "type": "curse",
             "id": "cloth-config-forge",
             "path": "mods",
             "name": "InvMove",
@@ -184,6 +200,14 @@
             "name": "environmental-creepers",
             "projectID": 246320,
             "fileID": 3079511
+        },
+        {
+            "type": "curse",
+            "id": "extended-lights-mod",
+            "path": "mods",
+            "name": "extended-lights-mod",
+            "projectID": 335051,
+            "fileID": 3144281
         },
         {
             "type": "curse",
@@ -276,6 +300,17 @@
         },
         {
             "type": "curse",
+            "id": "just-enough-resources-jer",
+            "path": "mods",
+            "name": "just-enough-resources-jer",
+            "dependencies": {
+                "jei": "REQUIRED"
+            },
+            "projectID": 240630,
+            "fileID": 3216429
+        },
+        {
+            "type": "curse",
             "id": "mgui",
             "path": "mods",
             "name": "tetra",
@@ -333,6 +368,14 @@
             "name": "save-my-stronghold",
             "projectID": 355248,
             "fileID": 3188216
+        },
+        {
+            "type": "curse",
+            "id": "supplementaries",
+            "path": "mods",
+            "name": "supplementaries",
+            "projectID": 412082,
+            "fileID": 3218015
         },
         {
             "type": "curse",

@@ -27,6 +27,7 @@
       { "type": "curse", "curse_projectName": "Mods/farmers-delight" },
       { "type": "curse", "curse_projectName": "Mods/cooking-for-blockheads" },
       { "type": "curse", "curse_projectName": "Mods/artifacts" },
+      { "type": "curse", "curse_projectName": "Mods/supplementaries" },
 
       // Worldgen
       { "type": "curse", "curse_projectName": "Mods/yungs-better-caves" },
@@ -41,6 +42,7 @@
 
       // Decoration / Pretty Things
       { "type": "curse", "curse_projectName": "Mods/fairy-lights", "validMcVersions": [ "1.16.4" ] },
+      { "type": "curse", "curse_projectName": "Mods/extended-lights-mod", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/customizable-elytra" },
       { "type": "curse", "curse_projectName": "Mods/bedspreads" },
 
@@ -51,6 +53,7 @@
 
       // Utility
       { "type": "curse", "curse_projectName": "Mods/jei" },
+      { "type": "curse", "curse_projectName": "Mods/just-enough-resources-jer", "validMcVersions": [ "1.16.4" ], "curse_releaseTypes": [ "Alpha" ] },
       { "type": "curse", "curse_projectName": "Mods/appleskin" },
 
       // Performance
@@ -66,6 +69,8 @@
         "name": "Mouse Tweaks", "description": "Move items between inventories with the mouse wheel and click-dragging." },
       { "type": "curse", "curse_projectName": "Mods/dynamic-surroundings", "optional": { "selected": true },
         "name": "Dynamic Surroundings", "description": "Improves auditory experience with sound effects and additional sounds." },
+      { "type": "curse", "curse_projectName": "Mods/charmonium-reforged", "optional": { "selected": true },
+        "name": "Charmonium", "description": "Adds additional (ambient) sound effects and music." },
       { "type": "curse", "curse_projectName": "Mods/invmove", "optional": { "selected": false },
         "name": "InvMove", "description": "Allows moving around even with an open inventory or container." }
     ]
