@@ -34,7 +34,6 @@
 - Disable "DecreaseRepairCost"
 - Disable "ExtendNetherite"
 - Disable "ExtraRecipes"
-- Disable "ExtractEnchantments"
 - Disable "FeatherFallingCrops"
 - Disable "MineshaftImprovements"
 - Disable "MorePortalFrames"
@@ -62,6 +61,7 @@
 - Disable "Feather Falling V"
 ### Mechanics
 - Disable "Broken Gear Drops Components"
+- Disable "Grindstone Disenchanting"
 ### Balance
 - Enable "Bedrock-Like Impaling"
 - Enable "Drop More Experience On Death"
