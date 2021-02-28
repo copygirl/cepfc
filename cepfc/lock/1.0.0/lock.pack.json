@@ -46,7 +46,7 @@
             "name": "ftb-gui-library",
             "side": "CLIENT",
             "projectID": 419699,
-            "fileID": 3217852
+            "fileID": 3218917
         },
         {
             "type": "curse",
@@ -343,7 +343,7 @@
                 "autoreglib": "REQUIRED"
             },
             "projectID": 243121,
-            "fileID": 3216263
+            "fileID": 3221260
         },
         {
             "type": "curse",
