@@ -30,7 +30,6 @@
 
 ## Tweaks / Balance
 - [Forgery / Fabrication](https://www.curseforge.com/minecraft/mc-mods/forgery) - Massive amount of configurable tweaks.
-- [Balanced Enchanting](https://www.curseforge.com/minecraft/mc-mods/balanced-enchanting) - Use a fair amount of XP rather than wasting whole levels.
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers) - Creeper explosions always drop all destroyed blocks.
 
 ## Utility

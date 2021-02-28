@@ -69,14 +69,6 @@
         },
         {
             "type": "curse",
-            "id": "balanced-enchanting",
-            "path": "mods",
-            "name": "balanced-enchanting",
-            "projectID": 399246,
-            "fileID": 3019938
-        },
-        {
-            "type": "curse",
             "id": "bedspreads",
             "path": "mods",
             "name": "bedspreads",

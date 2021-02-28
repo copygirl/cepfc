@@ -50,7 +50,6 @@
 
       // Tweaks / Balance
       { "type": "curse", "curse_projectName": "Mods/forgery" },
-      { "type": "curse", "curse_projectName": "Mods/balanced-enchanting", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/environmental-creepers" },
 
       // Utility
