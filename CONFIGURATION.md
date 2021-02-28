@@ -42,6 +42,10 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 - Disable "Tinted"
 - Disable "Show item repair cost"
 
+## Carry On
+- Enable "dropCarriedWhenHit"
+- Blacklist *Lectern* and all *Tetra* blocks
+
 ## Forgery / Fabrication
 - Set profile to "Dark"
 ### Utility
