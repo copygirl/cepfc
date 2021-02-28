@@ -29,7 +29,7 @@
 #Campfires no longer damage mobs.
 "CampfiresNoDamage enabled" = true
 #Candles are made from beeswax and have a lower ambient light than torches.
-"Candles enabled" = true
+"Candles enabled" = false
 #Cave spiders have a chance to drop cobwebs.
 "CaveSpidersDropCobwebs enabled" = true
 #Chickens randomly drop feathers.
@@ -39,7 +39,7 @@
 #Coral Squids spawn near coral in warm oceans.
 "CoralSquids enabled" = true
 #A smaller storage solution with the benefit of being transportable.
-"Crates enabled" = true
+"Crates enabled" = false
 #Combine a tool or armor with a netherite nugget on an anvil to reduce its repair cost.
 "DecreaseRepairCost enabled" = false
 #Right-clicking dirt with a shovel turns it into grass path.
@@ -57,7 +57,7 @@
 #Glowballs can be thrown to produce a light source where they impact.
 "Glowballs enabled" = true
 #Gold variant of vanilla iron bars.
-"GoldBars enabled" = true
+"GoldBars enabled" = false
 #Gold version of the vanilla chain.
 "GoldChains enabled" = true
 #Gold version of the vanilla lanterns.
@@ -67,7 +67,7 @@
 #Husks spawn anywhere within their biome and have a chance to drop sand.
 "HuskImprovements enabled" = true
 #Button to automatically tidy inventories.
-"InventoryTidying enabled" = true
+"InventoryTidying enabled" = false
 #A functional block that speeds up cooking of clay, bricks and terracotta.
 "Kilns enabled" = true
 #Lumberjacks are villagers that trade wooden items. Their job site is the woodcutter.
@@ -134,11 +134,11 @@
 #Barrels available in all types of vanilla wood.
 "VariantBarrels enabled" = true
 #Bookshelves available in all types of vanilla wood.
-"VariantBookshelves enabled" = true
+"VariantBookshelves enabled" = false
 #Chests available in all types of vanilla wood.
-"VariantChests enabled" = true
+"VariantChests enabled" = false
 #Ladders available in all types of vanilla wood.
-"VariantLadders enabled" = true
+"VariantLadders enabled" = false
 #Mobs may spawn with different textures.
 "VariantMobTextures enabled" = true
 #Villagers are attracted when the player holds a block of emeralds.

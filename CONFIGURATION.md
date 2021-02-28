@@ -30,16 +30,24 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 - Disable "Dark Souls Mode" for *Totem of Holding*
 
 ## Charm
-- Disable *Acquisition* enchantment
+### Items / Blocks
+- Disable *Candles*
+- Disable *Crates*
+- Disable *Gold Bars*
 - Disable *Netherite Nuggets*
+- Disable variant *Bookshelves*, *Chests* and *Ladders*
+### Enchantments
+- Disable *Acquisition*
+- Disable *Tinted*
+### Features
 - Disable "AutoRestock"
 - Disable "DecreaseRepairCost"
 - Disable "ExtendNetherite"
 - Disable "ExtraRecipes"
 - Disable "FeatherFallingCrops"
+- Disable "InventoryTidying"
 - Disable "MineshaftImprovements"
 - Disable "MorePortalFrames"
-- Disable "Tinted"
 - Disable "Show item repair cost"
 
 ## Carry On
