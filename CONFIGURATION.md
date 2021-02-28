@@ -73,3 +73,6 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 ## Mouse Tweaks
 - Disable "RMB Tweak"
 - Set "WheelScrollDirection" to 2 (position aware scrolling)
+
+## InvMove
+- Disable hiding the UI Background

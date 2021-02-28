@@ -13,7 +13,7 @@
 	#Enables/Disables the ability to jump when moveInInventories is enabled [false/true|default:true]
 	jumpInInventories = true
 	#Enables/Disables the ability to disable individual ui backgrounds [false/true|default:true]
-	uiBackground = true
+	uiBackground = false
 
 [UIBackground]
 	#Enables/Disables the chest menu UI background [false/true|default:false]
@@ -98,4 +98,3 @@
 	stonecutter = true
 	#Enables/Disables the hopper menu UI background [false/true|default:false]
 	hopper = true
-
