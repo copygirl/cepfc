@@ -126,6 +126,14 @@
         },
         {
             "type": "curse",
+            "id": "cosmetic-armor-reworked",
+            "path": "mods",
+            "name": "cosmetic-armor-reworked",
+            "projectID": 237307,
+            "fileID": 3205904
+        },
+        {
+            "type": "curse",
             "id": "create",
             "path": "mods",
             "name": "create",

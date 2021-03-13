@@ -42,12 +42,13 @@
       { "type": "curse", "curse_projectName": "Mods/immersive-portals-for-forge" },
       { "type": "curse", "curse_projectName": "Mods/carry-on" },
 
-      // Decoration / Pretty Things
+      // Cosmetic
       { "type": "curse", "curse_projectName": "Mods/fairy-lights", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/customizable-elytra" },
       { "type": "curse", "curse_projectName": "Mods/bedspreads" },
+      { "type": "curse", "curse_projectName": "Mods/cosmetic-armor-reworked" },
 
-      // Tweaks / Balance
+      // Tweaks
       { "type": "curse", "curse_projectName": "Mods/forgery" },
       { "type": "curse", "curse_projectName": "Mods/environmental-creepers" },
 

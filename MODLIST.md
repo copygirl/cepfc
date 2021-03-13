@@ -22,12 +22,13 @@
 - [Immersive Portals](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge) - See and walk through portals fluidly.
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) - Carry blocks in your hands along with their content.
 
-## Decoration / Pretty Things
+## Cosmetics
 - [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights) - Adorable lights you can hang from one block to another.
 - [Customizable Elytra](https://www.curseforge.com/minecraft/mc-mods/customizable-elytra) - Dye your Elytra and add banner patterns.
 - [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads) - Add banner patterns to your beds!
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) - Wear what you want or hide your armor altogether.
 
-## Tweaks / Balance
+## Tweaks
 - [Forgery / Fabrication](https://www.curseforge.com/minecraft/mc-mods/forgery) - Massive amount of configurable tweaks.
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers) - Creeper explosions always drop all destroyed blocks.
 
