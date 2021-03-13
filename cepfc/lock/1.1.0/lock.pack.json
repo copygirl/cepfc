@@ -199,14 +199,6 @@
         },
         {
             "type": "curse",
-            "id": "extended-lights-mod",
-            "path": "mods",
-            "name": "extended-lights-mod",
-            "projectID": 335051,
-            "fileID": 3144281
-        },
-        {
-            "type": "curse",
             "id": "fairy-lights",
             "path": "mods",
             "name": "fairy-lights",

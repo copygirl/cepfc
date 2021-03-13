@@ -44,7 +44,6 @@
 
       // Decoration / Pretty Things
       { "type": "curse", "curse_projectName": "Mods/fairy-lights", "validMcVersions": [ "1.16.4" ] },
-      { "type": "curse", "curse_projectName": "Mods/extended-lights-mod", "validMcVersions": [ "1.16.4" ] },
       { "type": "curse", "curse_projectName": "Mods/customizable-elytra" },
       { "type": "curse", "curse_projectName": "Mods/bedspreads" },
 

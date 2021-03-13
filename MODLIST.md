@@ -24,7 +24,6 @@
 
 ## Decoration / Pretty Things
 - [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights) - Adorable lights you can hang from one block to another.
-- [Extended Lights](https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod) - Various additional light sources.
 - [Customizable Elytra](https://www.curseforge.com/minecraft/mc-mods/customizable-elytra) - Dye your Elytra and add banner patterns.
 - [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads) - Add banner patterns to your beds!
 
