@@ -105,3 +105,4 @@ The following changes allow these items to be made at the *Cooking Table*.
 ## Farmer's Delight
 - *Milk Bottle* can be filled using Create's *Spout*
 - Remove *Milk Bucket* recipe from 3x *Milk Bottles*
+- Remove Vanilla *Cake* recipe in favor of the one accepting any `forge:milk` item
