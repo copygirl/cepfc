@@ -107,6 +107,7 @@ The following changes allow these items to be made at the *Cooking Table*.
 - Remove *Milk Bucket* recipe from 3x *Milk Bottles*
 - Remove Vanilla *Cake* recipe in favor of the one accepting any `forge:milk` item
 - All *Rope* recipes now craft / use Supplementaries' *Rope*
+- Remove Vanilla *Barrel* recipe (conflict with *Charm*)
 
 ## Tags
 - `supplementaries:ropes` now only has Supplementaries' *Rope*
