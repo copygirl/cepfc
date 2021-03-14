@@ -101,3 +101,7 @@ The following changes allow these items to be made at the *Cooking Table*.
 - Add pies and cakes from *Farmer's Delight* to food items
 - Add *Milk Bottle* from *Farmer's Delight* to ingredients
 - Add *Pancake* from *Supplementaries* to food items
+
+## Farmer's Delight
+- *Milk Bottle* can be filled using Create's *Spout*
+- Remove *Milk Bucket* recipe from 3x *Milk Bottles*
