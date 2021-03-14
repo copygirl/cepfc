@@ -34,7 +34,6 @@
 
 ## Utility
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) - Search through all available blocks, view recipes and uses.
-- [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) - Additional recipe sources such as mob drops and world generation.
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Displays saturation and exhaustion on player, and food values of food items.
 - [Global Data- & Resourcepacks](https://www.curseforge.com/minecraft/mc-mods/drp-global-datapack) - Allows loading of global datapacks for recipe customization.
 

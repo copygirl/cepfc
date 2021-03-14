@@ -304,17 +304,6 @@
         },
         {
             "type": "curse",
-            "id": "just-enough-resources-jer",
-            "path": "mods",
-            "name": "just-enough-resources-jer",
-            "dependencies": {
-                "jei": "REQUIRED"
-            },
-            "projectID": 240630,
-            "fileID": 3225096
-        },
-        {
-            "type": "curse",
             "id": "mgui",
             "path": "mods",
             "name": "tetra",
