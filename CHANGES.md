@@ -106,6 +106,7 @@ The following changes allow these items to be made at the *Cooking Table*.
 - *Milk Bottle* can be filled using Create's *Spout*
 - Remove *Milk Bucket* recipe from 3x *Milk Bottles*
 - Remove Vanilla *Cake* recipe in favor of the one accepting any `forge:milk` item
+- Remove *Wheat Dough* recipes (duplicate with *Create*)
 - All *Rope* recipes now craft / use Supplementaries' *Rope*
 - Remove Vanilla *Barrel* recipe (conflict with *Charm*)
 
