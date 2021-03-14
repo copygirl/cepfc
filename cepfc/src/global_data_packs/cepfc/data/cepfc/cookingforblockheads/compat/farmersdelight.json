@@ -1,0 +1,13 @@
+{
+  "modid": "farmersdelight",
+  "foods": {
+    "GENERAL": [
+      "farmersdelight:apple_pie",
+      "farmersdelight:sweet_berry_cheesecake",
+      "farmersdelight:chocolate_pie"
+    ],
+    "INGREDIENTS": [
+      "farmersdelight:milk_bottle"
+    ]
+  }
+}

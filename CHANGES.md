@@ -89,3 +89,15 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 
 ## InvMove
 - Disable hiding the UI Background
+
+
+# Datapack Changes
+
+In addition to configuration changes, cEPfC also comes with its own data pack, adding and modifying recipes, and similar things controlled by data packs.
+
+## Cooking for Blockheads
+The following changes allow these items to be made at the *Cooking Table*.
+- Add *Dough* from *Create* to ingredients
+- Add pies and cakes from *Farmer's Delight* to food items
+- Add *Milk Bottle* from *Farmer's Delight* to ingredients
+- Add *Pancake* from *Supplementaries* to food items

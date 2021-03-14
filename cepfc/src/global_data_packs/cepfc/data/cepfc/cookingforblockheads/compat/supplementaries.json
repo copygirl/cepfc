@@ -1,0 +1,4 @@
+{
+  "modid": "supplementaries",
+  "foods": { "GENERAL": [ "supplementaries:pancake" ] }
+}
