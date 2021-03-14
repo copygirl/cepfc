@@ -9,7 +9,8 @@ A Minecraft 1.16.5 Forge modpack which focuses around the mods **[Create]**, **[
 ![](docs/screenshot.png)
 
 If you're interested in which mods we're using (minus dependencies), see [MODLIST.md](MODLIST.md).  
-For a detailed list of configuration and datapack changes we made, see [CHANGES.md](CHANGES.md).
+For a detailed list of configuration and datapack changes we made, see [CHANGES.md](CHANGES.md).  
+And if you'd like to look at the changes from version to version, see [CHANGELOG.md](CHANGELOG.md).
 
 ## Download and Installation
 

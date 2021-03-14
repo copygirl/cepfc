@@ -93,7 +93,7 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 
 # Datapack Changes
 
-In addition to configuration changes, cEPfC also comes with its own data pack, adding and modifying recipes, and similar things controlled by data packs.
+In addition to configuration changes, cEPfC also comes with its own data pack, adding and modifying recipes, and similar things controlled by data packs. Feel free to browse [`cepfc/src/global_data_packs/cepfc/`](cepfc/src/global_data_packs/cepfc/) yourself, as well.
 
 ## Cooking for Blockheads
 The following changes allow these items to be made at the *Cooking Table*.
