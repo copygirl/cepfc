@@ -56,6 +56,7 @@
       { "type": "curse", "curse_projectName": "Mods/jei" },
       { "type": "curse", "curse_projectName": "Mods/just-enough-resources-jer", "validMcVersions": [ "1.16.4" ], "curse_releaseTypes": [ "Alpha" ] },
       { "type": "curse", "curse_projectName": "Mods/appleskin" },
+      { "type": "curse", "curse_projectName": "Mods/drp-global-datapack" },
 
       // Performance
       { "type": "curse", "curse_projectName": "Mods/fastfurnace" },

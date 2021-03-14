@@ -158,6 +158,14 @@
         },
         {
             "type": "curse",
+            "id": "drp-global-datapack",
+            "path": "mods",
+            "name": "drp-global-datapack",
+            "projectID": 317134,
+            "fileID": 3153569
+        },
+        {
+            "type": "curse",
             "id": "dungeon-crawl",
             "path": "mods",
             "name": "dungeon-crawl",
