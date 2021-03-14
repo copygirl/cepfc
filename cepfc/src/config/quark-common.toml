@@ -125,7 +125,7 @@
 	"Nether Brick Fence Gate" = true
 	"Paper Decor" = true
 	"Quilted Wool" = true
-	Rope = true
+	Rope = false
 	"Shallow Dirt" = true
 	Shingles = true
 	"Soul Sandstone" = true

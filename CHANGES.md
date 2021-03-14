@@ -102,7 +102,11 @@ The following changes allow these items to be made at the *Cooking Table*.
 - Add *Milk Bottle* from *Farmer's Delight* to ingredients
 - Add *Pancake* from *Supplementaries* to food items
 
-## Farmer's Delight
+## Recipes
 - *Milk Bottle* can be filled using Create's *Spout*
 - Remove *Milk Bucket* recipe from 3x *Milk Bottles*
 - Remove Vanilla *Cake* recipe in favor of the one accepting any `forge:milk` item
+- All *Rope* recipes now craft / use Supplementaries' *Rope*
+
+## Tags
+- `supplementaries:ropes` now only has Supplementaries' *Rope*
