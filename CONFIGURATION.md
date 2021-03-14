@@ -51,6 +51,10 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 - Disable "MorePortalFrames"
 - Disable "Show item repair cost"
 
+## Cooking for Blockheads
+- Disable *Cow in a Jar*
+- Enable "sinkRequiresWater"
+
 ## Carry On
 - Enable "dropCarriedWhenHit"
 - Blacklist *Lectern* and all *Tetra* blocks

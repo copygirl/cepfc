@@ -1,10 +1,10 @@
 #If true, a cow can be squished into a Milk Jar by dropping an anvil on top.
-cowJarEnabled = true
+cowJarEnabled = false
 #The amount of milk the cow in a jar generates per tick.
 #Range: 0.0 ~ 3.4028234663852886E38
 cowJarMilkPerTick = 0.5
 #Set this to true if you'd like the sink to require water to be piped in, instead of providing infinite of it.
-sinkRequiresWater = false
+sinkRequiresWater = true
 #Enabling this will make the kitchen counters have twice as much inventory space.
 largeCounters = false
 #Set this to true if you'd like to disallow automation of the oven (pipes and such won't be able to insert/extract)
