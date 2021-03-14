@@ -30,6 +30,7 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 - Disable "Dark Souls Mode" for *Totem of Holding*
 
 ## Charm
+- Add Quark's *Ancient Tomes* to *Bookcases'* valid books
 ### Items / Blocks
 - Disable *Candles*
 - Disable *Crates*

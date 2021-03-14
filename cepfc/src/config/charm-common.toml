@@ -192,7 +192,7 @@
 
 [Bookcases]
 	#Additional items that may be placed in bookcases.
-	"Valid books" = []
+	"Valid books" = ["quark:ancient_tome"]
 
 [CampfiresNoDamage]
 	#If true, soul campfires will still cause damage to mobs.
