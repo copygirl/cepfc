@@ -8,8 +8,8 @@
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm-reforged) - More *Quark*-like improvements and additions.
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) - Extra crops and delicious foods.
 - [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) - For your kitchen and cooking needs.
-- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) - Rare collectible and equippable artifacts that gives unique bonuses.
-- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) - More unique decorative and function blocks.
+- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) - Rare collectible and equippable artifacts that give unique bonuses.
+- [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) - More unique decorative and functional blocks.
 
 ## Worldgen
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) - Improvements to cave generation, making exploration more interesting.
@@ -19,8 +19,8 @@
 - [Save My Stronghold](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) - Fixes to Stronghold generation to guarantee they're not generated broken.
 
 ## Mechanics
-- [Immersive Portals](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge) - See and walk through portals fluidly.
-- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) - Carry blocks in your hands along with their content.
+- [Immersive Portals](https://www.curseforge.com/minecraft/mc-mods/immersive-portals-for-forge) - See and travel through portals fluidly.
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) - Carry blocks (along with their contents) and entities in your hands.
 
 ## Cosmetics
 - [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights) - Adorable lights you can hang from one block to another.
