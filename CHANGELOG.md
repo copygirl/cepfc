@@ -34,3 +34,4 @@
 - Remove *Wheat Dough* recipes (duplicate with *Create*)
 - All *Rope* recipes now craft / use Supplementaries' *Rope Coil*
 - Remove Vanilla *Barrel* recipe (conflict with *Charm*)
+- Fix some of Quark's variant ladders not being craftable in *Woodcutter*

@@ -109,6 +109,7 @@ The following changes allow these items to be made at the *Cooking Table*.
 - Remove *Wheat Dough* recipes (duplicate with *Create*)
 - All *Rope* recipes now craft / use Supplementaries' *Rope*
 - Remove Vanilla *Barrel* recipe (conflict with *Charm*)
+- Fix some of Quark's variant ladders not being craftable in *Woodcutter*
 
 ## Tags
 - `supplementaries:ropes` now only has Supplementaries' *Rope*

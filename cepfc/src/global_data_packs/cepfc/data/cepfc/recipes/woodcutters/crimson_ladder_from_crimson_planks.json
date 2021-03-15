@@ -1,0 +1,6 @@
+{
+  "type": "charm:woodcutting",
+  "ingredient": { "item": "minecraft:crimson_planks" },
+  "result": "quark:crimson_ladder",
+  "count": 4
+}
