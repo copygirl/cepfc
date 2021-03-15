@@ -1,0 +1,6 @@
+{
+  "type": "charm:woodcutting",
+  "ingredient": { "item": "endergetic:poise_planks" },
+  "result": "endergetic:poise_fence",
+  "count": 1
+}

@@ -1,0 +1,6 @@
+{
+  "type": "charm:woodcutting",
+  "ingredient": { "item": "endergetic:poise_stem" },
+  "result": "endergetic:stripped_poise_stem",
+  "count": 1
+}

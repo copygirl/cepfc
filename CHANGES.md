@@ -110,6 +110,7 @@ The following changes allow these items to be made at the *Cooking Table*.
 - All *Rope* recipes now craft / use Supplementaries' *Rope*
 - Remove Vanilla *Barrel* recipe (conflict with *Charm*)
 - Fix some of Quark's variant ladders not being craftable in *Woodcutter*
+- Add recipes for Endergetic's *Poise* blocks to *Woodcutter*
 
 ## Tags
 - `supplementaries:ropes` now only has Supplementaries' *Rope*

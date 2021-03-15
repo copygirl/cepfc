@@ -1,0 +1,6 @@
+{
+  "type": "charm:woodcutting",
+  "ingredient": { "item": "endergetic:poise_planks" },
+  "result": "endergetic:poise_sign",
+  "count": 1
+}
