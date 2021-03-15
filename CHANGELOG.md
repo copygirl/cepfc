@@ -17,6 +17,7 @@
 - Supplementaries `0.10.0a` => `0.10.3b`
 - Tetra `3.6.1` => `3.8.0`
 - YUNG's Better Mineshafts `2.0.1` => `2.0.2`
+- Enchanted Book Redesign `3.2` => `3.3`
 
 ### Configuration
 
