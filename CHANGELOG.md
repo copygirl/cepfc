@@ -1,5 +1,20 @@
 # Changelog
 
+## Version `1.2.0`
+
+### Mods
+
+- Removed [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) (Reason: Issues with crafting Fairy Lights.)
+- Forge `36.0.58` => `36.1.2`
+- Customizable Elytra `1.2.1` => `1.4.2`
+- Dynamic Surroundings `4.0.3.12` => `4.0.4.1`
+- Farmer's Delight `0.3.2` => `0.4.0`
+- Just Enough Items `7.6.1.71` => `7.6.1.75`
+- Quark `r2.4-308` => `r2.4-309`
+- Supplementaries `0.10.3b` => `0.11.0b`
+- YUNG's Better Mineshafts `2.0.2` => `2.0.3`
+
+
 ## Version `1.1.0`
 
 ### Mods
@@ -33,7 +48,7 @@
 - Remove *Milk Bucket* recipe from 3x *Milk Bottles*
 - Remove Vanilla *Cake* recipe in favor of the *Farmer's Delight's* one accepting any `forge:milk` item
 - Remove *Wheat Dough* recipes (duplicate with *Create*)
-- All *Rope* recipes now craft / use Supplementaries' *Rope Coil*
+- All *Rope* recipes now craft / use Supplementaries' *Rope*
 - Remove Vanilla *Barrel* recipe (conflict with *Charm*)
 - Fix some of Quark's variant ladders not being craftable in *Woodcutter*
 - Add recipes for Endergetic's *Poise* blocks to *Woodcutter*

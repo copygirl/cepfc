@@ -4,7 +4,7 @@
     "modloader": {
         "type": "Forge",
         "mcVersion": "1.16.5",
-        "forgeVersion": "36.0.58"
+        "forgeVersion": "36.1.2"
     },
     "title": "copy's Extraordinary Pack for Cuties",
     "version": "1.2.0",
@@ -46,7 +46,7 @@
             "name": "ftb-gui-library",
             "side": "CLIENT",
             "projectID": 419699,
-            "fileID": 3229582
+            "fileID": 3254875
         },
         {
             "type": "curse",
@@ -114,7 +114,7 @@
             "name": "InvMove",
             "side": "CLIENT",
             "projectID": 348521,
-            "fileID": 3235778
+            "fileID": 3253620
         },
         {
             "type": "curse",
@@ -154,7 +154,7 @@
             "path": "mods",
             "name": "customizable-elytra",
             "projectID": 440047,
-            "fileID": 3215819
+            "fileID": 3248968
         },
         {
             "type": "curse",
@@ -183,7 +183,7 @@
                 "selected": true
             },
             "projectID": 238891,
-            "fileID": 3221841
+            "fileID": 3248516
         },
         {
             "type": "curse",
@@ -227,7 +227,7 @@
             "path": "mods",
             "name": "farmers-delight",
             "projectID": 398521,
-            "fileID": 3188508
+            "fileID": 3249879
         },
         {
             "type": "curse",
@@ -239,17 +239,6 @@
             },
             "projectID": 299540,
             "fileID": 3172796
-        },
-        {
-            "type": "curse",
-            "id": "fastworkbench",
-            "path": "mods",
-            "name": "fastworkbench",
-            "dependencies": {
-                "placebo": "REQUIRED"
-            },
-            "projectID": 288885,
-            "fileID": 3171218
         },
         {
             "type": "curse",
@@ -300,7 +289,7 @@
             "path": "mods",
             "name": "jei",
             "projectID": 238222,
-            "fileID": 3192904
+            "fileID": 3245079
         },
         {
             "type": "curse",
@@ -340,7 +329,7 @@
                 "autoreglib": "REQUIRED"
             },
             "projectID": 243121,
-            "fileID": 3221260
+            "fileID": 3254368
         },
         {
             "type": "curse",
@@ -368,7 +357,7 @@
             "path": "mods",
             "name": "supplementaries",
             "projectID": 412082,
-            "fileID": 3235600
+            "fileID": 3250953
         },
         {
             "type": "curse",
@@ -421,7 +410,7 @@
                 "yungs-api": "REQUIRED"
             },
             "projectID": 389665,
-            "fileID": 3227909
+            "fileID": 3245380
         }
     ]
 }

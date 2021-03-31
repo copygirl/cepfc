@@ -39,7 +39,6 @@
 
 ## Performance
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) - Performance improvements to Furnaces.
-- [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) - Performance improvements to Workbenches.
 
 ## Client-side
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) - Disables unwanted tutorial and recipe popups.

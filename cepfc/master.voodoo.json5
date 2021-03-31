@@ -7,7 +7,7 @@
   "mcVersion": "1.16.5",
   "modloader": {
     "type": "modloader.forge",
-    "version": "Forge/1.16.5/36.0.58"
+    "version": "Forge/1.16.5/36.1.2"
   },
   "packageConfiguration": {
     "multimc": {
@@ -43,7 +43,7 @@
       { "type": "curse", "curse_projectName": "Mods/carry-on" },
 
       // Cosmetic
-      { "type": "curse", "curse_projectName": "Mods/fairy-lights", "validMcVersions": [ "1.16.4" ] },
+      { "type": "curse", "curse_projectName": "Mods/fairy-lights" },
       { "type": "curse", "curse_projectName": "Mods/customizable-elytra" },
       { "type": "curse", "curse_projectName": "Mods/bedspreads" },
       { "type": "curse", "curse_projectName": "Mods/cosmetic-armor-reworked" },
@@ -58,8 +58,7 @@
       { "type": "curse", "curse_projectName": "Mods/drp-global-datapack" },
 
       // Performance
-      { "type": "curse", "curse_projectName": "Mods/fastfurnace" },
-      { "type": "curse", "curse_projectName": "Mods/fastworkbench" }
+      { "type": "curse", "curse_projectName": "Mods/fastfurnace" }
     ],
     "side_client": [
       { "type": "curse", "curse_projectName": "Mods/toast-control" },
