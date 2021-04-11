@@ -7,7 +7,7 @@
   "mcVersion": "1.16.5",
   "modloader": {
     "type": "modloader.forge",
-    "version": "Forge/1.16.5/36.1.2"
+    "version": "Forge/1.16.5/36.1.4"
   },
   "packageConfiguration": {
     "multimc": {

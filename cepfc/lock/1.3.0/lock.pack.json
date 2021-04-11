@@ -4,7 +4,7 @@
     "modloader": {
         "type": "Forge",
         "mcVersion": "1.16.5",
-        "forgeVersion": "36.1.2"
+        "forgeVersion": "36.1.4"
     },
     "title": "copy's Extraordinary Pack for Cuties",
     "version": "1.3.0",
@@ -73,7 +73,7 @@
             "path": "mods",
             "name": "bedspreads",
             "projectID": 308653,
-            "fileID": 3118466
+            "fileID": 3258439
         },
         {
             "type": "curse",
@@ -114,7 +114,7 @@
             "name": "InvMove",
             "side": "CLIENT",
             "projectID": 348521,
-            "fileID": 3253620
+            "fileID": 3261152
         },
         {
             "type": "curse",
@@ -138,7 +138,7 @@
             "path": "mods",
             "name": "create",
             "projectID": 328085,
-            "fileID": 3167531
+            "fileID": 3271972
         },
         {
             "type": "curse",
@@ -227,7 +227,7 @@
             "path": "mods",
             "name": "farmers-delight",
             "projectID": 398521,
-            "fileID": 3249879
+            "fileID": 3272000
         },
         {
             "type": "curse",
@@ -289,7 +289,7 @@
             "path": "mods",
             "name": "jei",
             "projectID": 238222,
-            "fileID": 3245079
+            "fileID": 3272895
         },
         {
             "type": "curse",
@@ -329,7 +329,7 @@
                 "autoreglib": "REQUIRED"
             },
             "projectID": 243121,
-            "fileID": 3254368
+            "fileID": 3261500
         },
         {
             "type": "curse",
@@ -388,7 +388,7 @@
             "path": "mods",
             "name": "yungs-better-mineshafts-forge",
             "projectID": 421850,
-            "fileID": 3186128
+            "fileID": 3261121
         },
         {
             "type": "curse",

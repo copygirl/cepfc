@@ -4,6 +4,13 @@
 
 ### Mods
 
+- Forge `36.1.2` => `36.1.4`
+- Bedspreads `5.1.0.1` => `5.1.0.2`
+- Create `0.3e` => `0.3.1b`
+- Farmer's Delight `0.4.0` => `0.4.1`
+- Just Enough Items `7.6.1.75` => `7.6.3.84`
+- Quark `r2.4-309` => `r2.4-310`
+
 ### Configuration
 
 - Disabled fog around Bedrock
