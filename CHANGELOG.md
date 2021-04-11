@@ -1,5 +1,16 @@
 # Changelog
 
+## Version `1.3.0`
+
+### Mods
+
+### Configuration
+
+- Disabled fog around Bedrock
+- Reduced default waterfall and footstep sound volume
+- Blocked environmental frog sounds from playing (caused by nearby lilypads)
+
+
 ## Version `1.2.0`
 
 ### Mods

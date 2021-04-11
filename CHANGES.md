@@ -87,6 +87,11 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 - Disable "RMB Tweak"
 - Set "WheelScrollDirection" to 2 (position aware scrolling)
 
+## Dynamic Surroundings
+- Disable "Bedrock Fog"
+- Reduce Waterfall and Footstep volume
+- Block `environs:frog` sound from playing (caused by nearby lilypads)
+
 ## InvMove
 - Disable hiding the UI Background
 

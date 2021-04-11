@@ -28,7 +28,7 @@
 	"Player Footprint Style" = "LOWRES_SQUARE"
 	#Footstep master volume scale
 	#Range: 0 ~ 100
-	"Footstep Volume Scale" = 40
+	"Footstep Volume Scale" = 20
 
 #Options for mob effect generation
 ["Mob Effect Options"]

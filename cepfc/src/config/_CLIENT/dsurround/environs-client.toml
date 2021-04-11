@@ -48,7 +48,7 @@
 	#Increase fog based on the strength of rain
 	"Weather Fog" = true
 	#Increase fog at bedrock layers
-	"Bedrock Fog" = true
+	"Bedrock Fog" = false
 	#Chance morning fog will occurs expressed as 1 in N
 	#Range: > 0
 	"Morning Fog Chance" = 1
@@ -63,7 +63,7 @@
 ["Sound Options"]
 	#Scaling factor to apply to waterfall sounds
 	#Range: 0 ~ 100
-	"Waterfall Volume" = 100
+	"Waterfall Volume" = 50
 	#Scaling factor to apply to biome sounds
 	#Range: 0 ~ 100
 	"Biome Sound Volume" = 100
