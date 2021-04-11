@@ -18,6 +18,8 @@ This is a list of **ALL** the configuration changes made to mods in this pack. T
 - Disable *Potato Crate*
 ### Tools
 - Add *Backstabbing* as valid *Ancient Tome* enchantment
+### Tweaks
+- Set Improved Sleeping "Percent Req" to 0.5
 ### World
 - Disable *Limestone*
 ### Client

@@ -9,6 +9,7 @@
 - Disabled fog around Bedrock
 - Reduced default waterfall and footstep sound volume
 - Blocked environmental frog sounds from playing (caused by nearby lilypads)
+- Only require 50% of players to sleep to skip the night
 
 
 ## Version `1.2.0`
