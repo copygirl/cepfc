@@ -39,6 +39,7 @@
 
 ## Performance
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace) - Performance improvements to Furnaces.
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) - Reduced memory usage.
 
 ## Client-side
 - [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) - Disables unwanted tutorial and recipe popups.

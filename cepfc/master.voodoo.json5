@@ -58,7 +58,8 @@
       { "type": "curse", "curse_projectName": "Mods/drp-global-datapack" },
 
       // Performance
-      { "type": "curse", "curse_projectName": "Mods/fastfurnace" }
+      { "type": "curse", "curse_projectName": "Mods/fastfurnace" },
+      { "type": "curse", "curse_projectName": "Mods/ferritecore" }
     ],
     "side_client": [
       { "type": "curse", "curse_projectName": "Mods/toast-control" },

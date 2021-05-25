@@ -251,6 +251,14 @@
         },
         {
             "type": "curse",
+            "id": "ferritecore",
+            "path": "mods",
+            "name": "ferritecore",
+            "projectID": 429235,
+            "fileID": 3272785
+        },
+        {
+            "type": "curse",
             "id": "forgery",
             "path": "mods",
             "name": "forgery",
@@ -395,7 +403,7 @@
             "type": "curse",
             "id": "yungs-api",
             "path": "mods",
-            "name": "yungs-better-caves",
+            "name": "yungs-better-mineshafts-forge",
             "projectID": 421850,
             "fileID": 3261121
         },

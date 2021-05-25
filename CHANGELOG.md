@@ -4,6 +4,7 @@
 
 ### Mods
 
+- Added [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) - Reduced memory usage.
 - Forge `36.1.4` => `36.1.24`
 - Artifacts `2.8.3` => `2.9.2`
 - Cosmetic Armor Reworked `v1b` => `v2`
