@@ -1,5 +1,23 @@
 # Changelog
 
+## Version `1.4.0`
+
+### Mods
+
+- Forge `36.1.4` => `36.1.24`
+- Artifacts `2.8.3` => `2.9.2`
+- Cosmetic Armor Reworked `v1b` => `v2`
+- Create `0.3.1b` => `0.3.1c`
+- Customizable Elytra `1.4.2` => `1.4.4`
+- Dynamic Surroundings `4.0.4.1` => `4.0.4.2`
+- Farmer's Delight `0.4.1` => `0.4.3`
+- JEI `7.6.3.84` => `7.7.0.99`
+- Quark `r2.4-310` => `r2.4-311`
+- Supplementaries `0.11.0b` => `0.12.2`
+- Tetra `3.8.0` => `3.11.1`
+- YUNG's Better Caves `1.1.1` => `1.1.2`
+
+
 ## Version `1.3.0`
 
 ### Mods

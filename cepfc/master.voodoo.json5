@@ -7,7 +7,7 @@
   "mcVersion": "1.16.5",
   "modloader": {
     "type": "modloader.forge",
-    "version": "Forge/1.16.5/36.1.4"
+    "version": "Forge/1.16.5/36.1.24"
   },
   "packageConfiguration": {
     "multimc": {
@@ -63,7 +63,7 @@
     "side_client": [
       { "type": "curse", "curse_projectName": "Mods/toast-control" },
       { "type": "curse", "curse_projectName": "Mods/enchanted-book-redesign" },
-      { "type": "curse", "curse_projectName": "Mods/ftb-gui-library" }, // Required for in-game JEI config.
+      { "type": "curse", "curse_projectName": "Mods/ftb-library-forge" }, // Required for in-game JEI config.
 
       { "type": "curse", "curse_projectName": "Mods/mouse-tweaks", "optional": { "selected": true },
         "name": "Mouse Tweaks", "description": "Move items between inventories with the mouse wheel and click-dragging." },

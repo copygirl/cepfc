@@ -4,7 +4,7 @@
     "modloader": {
         "type": "Forge",
         "mcVersion": "1.16.5",
-        "forgeVersion": "36.1.4"
+        "forgeVersion": "36.1.24"
     },
     "title": "copy's Extraordinary Pack for Cuties",
     "version": "1.4.0",
@@ -43,10 +43,10 @@
             "type": "curse",
             "id": "architectury-forge",
             "path": "mods",
-            "name": "ftb-gui-library",
+            "name": "ftb-library-forge",
             "side": "CLIENT",
             "projectID": 419699,
-            "fileID": 3254875
+            "fileID": 3316907
         },
         {
             "type": "curse",
@@ -54,16 +54,17 @@
             "path": "mods",
             "name": "artifacts",
             "dependencies": {
-                "curios": "REQUIRED"
+                "curios": "REQUIRED",
+                "expandability": "REQUIRED"
             },
             "projectID": 312353,
-            "fileID": 3225672
+            "fileID": 3314855
         },
         {
             "type": "curse",
             "id": "autoreglib",
             "path": "mods",
-            "name": "quark",
+            "name": "quark-oddities",
             "projectID": 250363,
             "fileID": 3128555
         },
@@ -114,7 +115,7 @@
             "name": "InvMove",
             "side": "CLIENT",
             "projectID": 348521,
-            "fileID": 3261152
+            "fileID": 3311352
         },
         {
             "type": "curse",
@@ -130,7 +131,7 @@
             "path": "mods",
             "name": "cosmetic-armor-reworked",
             "projectID": 237307,
-            "fileID": 3205904
+            "fileID": 3319065
         },
         {
             "type": "curse",
@@ -138,7 +139,7 @@
             "path": "mods",
             "name": "create",
             "projectID": 328085,
-            "fileID": 3271972
+            "fileID": 3278516
         },
         {
             "type": "curse",
@@ -146,7 +147,7 @@
             "path": "mods",
             "name": "artifacts",
             "projectID": 309927,
-            "fileID": 3231111
+            "fileID": 3275653
         },
         {
             "type": "curse",
@@ -154,7 +155,7 @@
             "path": "mods",
             "name": "customizable-elytra",
             "projectID": 440047,
-            "fileID": 3248968
+            "fileID": 3301518
         },
         {
             "type": "curse",
@@ -183,7 +184,7 @@
                 "selected": true
             },
             "projectID": 238891,
-            "fileID": 3248516
+            "fileID": 3288746
         },
         {
             "type": "curse",
@@ -215,6 +216,14 @@
         },
         {
             "type": "curse",
+            "id": "expandability",
+            "path": "mods",
+            "name": "artifacts",
+            "projectID": 465066,
+            "fileID": 3277762
+        },
+        {
+            "type": "curse",
             "id": "fairy-lights",
             "path": "mods",
             "name": "fairy-lights",
@@ -227,7 +236,7 @@
             "path": "mods",
             "name": "farmers-delight",
             "projectID": 398521,
-            "fileID": 3272000
+            "fileID": 3310983
         },
         {
             "type": "curse",
@@ -250,9 +259,9 @@
         },
         {
             "type": "curse",
-            "id": "ftb-gui-library",
+            "id": "ftb-library-forge",
             "path": "mods",
-            "name": "ftb-gui-library",
+            "name": "ftb-library-forge",
             "side": "CLIENT",
             "dependencies": {
                 "architectury-forge": "REQUIRED"
@@ -289,7 +298,7 @@
             "path": "mods",
             "name": "jei",
             "projectID": 238222,
-            "fileID": 3272895
+            "fileID": 3318286
         },
         {
             "type": "curse",
@@ -297,7 +306,7 @@
             "path": "mods",
             "name": "tetra",
             "projectID": 351914,
-            "fileID": 3104239
+            "fileID": 3291267
         },
         {
             "type": "curse",
@@ -316,9 +325,9 @@
             "type": "curse",
             "id": "placebo",
             "path": "mods",
-            "name": "toast-control",
+            "name": "fastfurnace",
             "projectID": 283644,
-            "fileID": 3172794
+            "fileID": 3314315
         },
         {
             "type": "curse",
@@ -329,7 +338,7 @@
                 "autoreglib": "REQUIRED"
             },
             "projectID": 243121,
-            "fileID": 3261500
+            "fileID": 3282239
         },
         {
             "type": "curse",
@@ -357,7 +366,7 @@
             "path": "mods",
             "name": "supplementaries",
             "projectID": 412082,
-            "fileID": 3250953
+            "fileID": 3311523
         },
         {
             "type": "curse",
@@ -368,7 +377,7 @@
                 "mgui": "REQUIRED"
             },
             "projectID": 289712,
-            "fileID": 3232294
+            "fileID": 3321042
         },
         {
             "type": "curse",
@@ -386,7 +395,7 @@
             "type": "curse",
             "id": "yungs-api",
             "path": "mods",
-            "name": "yungs-better-mineshafts-forge",
+            "name": "yungs-better-caves",
             "projectID": 421850,
             "fileID": 3261121
         },
@@ -399,7 +408,7 @@
                 "yungs-api": "REQUIRED"
             },
             "projectID": 340583,
-            "fileID": 3170047
+            "fileID": 3307879
         },
         {
             "type": "curse",
