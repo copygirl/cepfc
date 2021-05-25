@@ -3,7 +3,7 @@
   "title": "copy's Extraordinary Pack for Cuties",
   "authors": [ "copygirl" ],
   "srcDir": "src",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "mcVersion": "1.16.5",
   "modloader": {
     "type": "modloader.forge",
